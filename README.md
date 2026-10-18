@@ -2506,7 +2506,6 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Notarize AI outputs, audits and agreements on the TON blockchain, with nothing stored server-side.
 - [Redthread](https://redthreadsec.com/docs#guide-mcp) `https://app.redthreadsec.com/mcp`
   [![Redthread MCP connector](https://glama.ai/mcp/connectors/com.redthreadsec/redthread/badges/score.svg)](https://glama.ai/mcp/connectors/com.redthreadsec/redthread)
-  [![Redthread MCP connector](https://glama.ai/mcp/connectors/com.redthreadsec/redthread/badges/score.svg)](https://glama.ai/mcp/connectors/com.redthreadsec/redthread)
   🔐 - Check whether an MCP server passed a signed daily scan of the official registry, and ask about your own attack paths.
 - [ScanMalware](https://scanmalware.com) `https://mcp.scanmalware.com/mcp`
   [![ScanMalware MCP connector](https://glama.ai/mcp/connectors/com.scanmalware.mcp/scanmalware-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.scanmalware.mcp/scanmalware-mcp)
